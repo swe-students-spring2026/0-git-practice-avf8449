@@ -1,6 +1,6 @@
 
 ## Article:
-**[Why Modern Software Still Collapses Under Its Own Complexity](https://medium.com/p/why-modern-software-still-collapses-under-its-own-complexity)** *By Dick Dowdell (Jan 2026)*
+**[Why Modern Software Still Collapses Under Its Own Complexity](https://dick-dowdell.medium.com/software-architecture-still-fails-at-scale-9b607a444fda)** *By Dick Dowdell (Jan 2026)*
 
 ## Why I find it interesting:
 
