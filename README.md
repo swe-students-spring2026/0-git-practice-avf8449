@@ -19,3 +19,11 @@ What I took away from this article is that a lot of “software doesn’t scale�
 - Added top level heading.
 - Removed all colons in titles.
 - Surround all titles in blank lines.
+
+## Comment - Caleb Jawharjian
+
+One thing that stuck with me is the idea that we often copy the *shape* of good architecture (objects, services, microservices) without copying the *rules* that make it work. The article’s examples made it clear that if parts of a system can still reach into each other’s data or rely on lots of special-case coordination, then splitting the codebase doesn’t really buy you much. I also liked the emphasis on simple, consistent ways of communicating between parts of the system, because it seems like that’s what actually makes change safer over time.
+
+
+
+
